@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="enter_valid_input">Enter a valid input!</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_heigh_in_m">Enter height (m)</string>
+    <string name="enter_weight_in_kg">Enter weight (kg)</string>
+    <string name="enter_your_heigh_in_cm">Enter height in (cm)</string>
+    <string name="state">State</string>
+    <string name="weight_range">Normal weight</string>
+
+    <string name="report">Report:\nName: %s\nHeight: %s\nWeight: %s\nBMI: %s\nState: %s\n</string>
+    <string name="send_report">Send Report</string>
+    <string name="calcuator">BMI Calculator</string>
+    <string name="unknown">Unknown</string>
+</resources>
